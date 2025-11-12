@@ -1,3 +1,5 @@
+![Header](https://github.com/CharlesLambey/CharlesLambey/blob/main/header.png)
+
 # 👨🏽‍💻 Charles LAMBEY
 
 ## 🚀 Consultant & Développeur Full Stack | Expert en Solutions de Gestion et d’Automatisation
