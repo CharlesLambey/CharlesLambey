@@ -12,7 +12,7 @@ Mon ambition est de **partager mes projets, mes outils et mes expériences** afi
 ### 💼 Domaines de compétence
 
 - 🌐 **Développement Web** : PHP / CodeIgniter, JavaScript / Node.js, HTML5 / CSS3 / Tailwind  
-- 💻 **Développement Desktop & API** : C#, .NET Framework / .NET Core, SQL Server  
+- 💻 **Développement Desktop & API** : C#, .NET Framework, Python, SQL Server  
 - 🧠 **ERP & Automatisation** : Odoo, Sage 100, Sage X3  
 - ☁️ **Cloud & DevOps** : AWS, Docker, Git, CI/CD  
 - 📊 **Data & Intégration** : Python, Power BI, Excel  
